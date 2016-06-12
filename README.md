@@ -13,6 +13,7 @@
 
 ## Programming
 
+- [Mastering Programming](https://github.com/willard1218/Articles/blob/master/Mastering-Programming.md)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 
 ## Frontend
