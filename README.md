@@ -26,3 +26,6 @@
 
 - [和 Vue.js 框架的作者聊聊前端框架開發背後的故事](http://teahour.fm/2015/08/16/vuejs-creator-evan-you.html)
 
+## Creative
+
+- [Brainswarming 頭腦匯集](https://github.com/shiningjason1989/knowledge-notes/blob/master/brainswarming.md)
