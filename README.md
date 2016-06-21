@@ -28,4 +28,4 @@
 
 ## Creative
 
-- [Brainswarming 頭腦匯集](https://github.com/shiningjason1989/knowledge-notes/blob/master/brainswarming.md)
+- [Brainswarming 腦力匯集](https://github.com/shiningjason1989/knowledge-notes/blob/master/brainswarming.md)
