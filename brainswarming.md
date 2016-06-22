@@ -1,5 +1,7 @@
 # Brainswarming 腦力匯集
 
+![Brainswarming](http://www.sintetia.com/wp-content/uploads/2014/07/brainswarming.png)
+
 ## 我們有三大認知障礙
 
 ### 1. 功能固著 (functional fixedness)
