@@ -34,6 +34,7 @@
 
 ## Chatbot
 
+- [聊天机器人设计的三大经验法则](http://36kr.com/p/5045903.html)
 - [8 principles of bot design](https://medium.com/intercom-inside/8-principles-of-bot-design-51f03df1d84c)
 - [How can you tell the difference between a well designed chatbot and a bad one?](https://www.quora.com/How-can-you-tell-the-difference-between-a-well-designed-chatbot-and-a-bad-one/answer/Abhinav-Sharma)
 
