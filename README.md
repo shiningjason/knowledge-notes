@@ -35,6 +35,7 @@
 ## Chatbot
 
 - [8 principles of bot design](https://medium.com/intercom-inside/8-principles-of-bot-design-51f03df1d84c)
+- [How can you tell the difference between a well designed chatbot and a bad one?](https://www.quora.com/How-can-you-tell-the-difference-between-a-well-designed-chatbot-and-a-bad-one/answer/Abhinav-Sharma)
 
 ## Startup
 
