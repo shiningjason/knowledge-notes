@@ -16,6 +16,7 @@
 
 - [寫給不是設計師的-漸層配色(上)](https://medium.com/p/b1f9771dd803)
 - [寫給不是設計師的-漸層配色(中)](https://medium.com/p/c8a759b9434c)
+- [A guide to Sketch](https://readymag.com/u91593485/guidetosketch)
 
 ## Programming
 
