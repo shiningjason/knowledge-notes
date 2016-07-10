@@ -3,25 +3,39 @@
 ##### 目錄
 
 1. [Design](#design)
+  1. [Colors](#colors)
+  2. [Sketch](#sketch)
 2. [Programming](#programming)
-3. [Frontend](#frontend)
+3. [Life](#life)
+4. [Frontend](#frontend)
   1. [React](#react)
   2. [Vue.js](#vuejs)
-4. [Chatbot](#chatbot)
-5. [Startup](＃startup)
+5. [Chatbot](#chatbot)
+6. [Startup](＃startup)
   1. [Creative](#creative)
   2. [Stories](#stories)
 
 ## Design
 
+### Colors
+
 - [寫給不是設計師的-漸層配色(上)](https://medium.com/p/b1f9771dd803)
 - [寫給不是設計師的-漸層配色(中)](https://medium.com/p/c8a759b9434c)
+- [寫給不是設計師的-漸層配色(下)](https://medium.com/p/619a89c87c3)
+
+### Sketch
+
 - [A guide to Sketch](https://readymag.com/u91593485/guidetosketch)
 
 ## Programming
 
 - [Mastering Programming](https://github.com/willard1218/Articles/blob/master/Mastering-Programming.md)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+
+## Life
+
+- [學習這回事](https://xdite.gitbooks.io/learn-something/)
+- [黎小晨想太多](http://chuansong.me/account/xiaochenxiangtaiduo)
 
 ## Frontend
 
