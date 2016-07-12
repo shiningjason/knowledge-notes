@@ -23,6 +23,12 @@
 - [寫給不是設計師的-漸層配色(中)](https://medium.com/p/c8a759b9434c)
 - [寫給不是設計師的-漸層配色(下)](https://medium.com/p/619a89c87c3)
 
+### Typography
+
+- [Swift — 為了解決實際問題而生的字型（一）](https://thestandnews.com/culture/%E7%82%BA%E8%A7%A3%E6%B1%BA%E5%95%8F%E9%A1%8C%E8%80%8C%E7%94%9F%E7%9A%84%E5%AD%97%E5%9E%8B-%E4%B8%80-swift/)
+- [Charter — 為了解決實際問題而生的字型（二）](https://thestandnews.com/art/%E7%82%BA%E4%BA%86%E8%A7%A3%E6%B1%BA%E5%AF%A6%E9%9A%9B%E5%95%8F%E9%A1%8C%E8%80%8C%E7%94%9F%E7%9A%84%E5%AD%97%E5%9E%8B-%E4%BA%8C-charter/)
+- [Scala — 為了解決實際問題而生的字型（三）](https://thestandnews.com/art/scala-%E7%82%BA%E4%BA%86%E8%A7%A3%E6%B1%BA%E5%AF%A6%E9%9A%9B%E5%95%8F%E9%A1%8C%E8%80%8C%E7%94%9F%E7%9A%84%E5%AD%97%E5%9E%8B-%E4%B8%89/)
+
 ### Sketch
 
 - [A guide to Sketch](https://readymag.com/u91593485/guidetosketch)
