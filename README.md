@@ -45,6 +45,11 @@
 
 ## Frontend
 
+### JavaScript
+
+- [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/)
+- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
 ### React
 
 - [React 巢狀 Component 效能優化](https://blog.wuct.me/react-巢狀-component-效能優化-b01d8a0d3eff)
