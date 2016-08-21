@@ -4,7 +4,8 @@
 
 1. [Design](#design)
   1. [Colors](#colors)
-  2. [Sketch](#sketch)
+  2. [Typography](#typography)
+  3. [Sketch](#sketch)
 2. [Programming](#programming)
 3. [Life](#life)
 4. [Front-end](#frontend)
